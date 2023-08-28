@@ -1,1 +1,0 @@
-print("Nilai A1 Ningkat")
